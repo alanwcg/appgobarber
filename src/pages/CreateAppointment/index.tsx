@@ -230,7 +230,7 @@ const CreateAppointment: React.FC = () => {
           </Section>
 
           <Section>
-            <SectionTitle>Manhã</SectionTitle>
+            <SectionTitle>Tarde</SectionTitle>
 
             <SectionContent>
               {afternoonAvailability.map(
